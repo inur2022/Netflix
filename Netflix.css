@@ -45,3 +45,34 @@ body {
     color: white;
     margin-left: 20px;
   }
+
+  .banner {
+    background-image: url(money-heist-season-5-tokyo-death-cliffhanger.jpg);
+    background-size: cover;
+    background-position: center center;
+    color: white;
+    object-fit: contain;
+    height: 448px;
+  }
+
+  .banner_contents {
+    margin-left: 30px;
+    padding-top: 140px;
+    height:190px;
+  }
+
+  .banner_title {
+   font-size: 3rem;
+   font-weight: 800;
+   padding-bottom: 0.3rem; 
+  }
+
+  .banner_description {
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    padding-top: 1rem;
+    font-size: 0.8rem;
+    max-width: 360px;
+    height: 180px;
+  }
